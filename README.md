@@ -1,4 +1,4 @@
-# kun lin
+# Kun Lin
 
 I am an undergraduate student majoring in Electronic Information Engineering at Guangzhou University.
 
